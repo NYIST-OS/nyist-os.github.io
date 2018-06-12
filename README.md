@@ -36,4 +36,5 @@ Add 404 at 19:46 in 2018/6/12
 and so on.
 
 #notice
+
 With the development style of JavaConfig, all the auxiliary classes that need to be used first use the spring ecosphere, if there is no choice in the Maven central warehouse, choose the large organization as far as possible, and the project refuses to use the wild bag.
