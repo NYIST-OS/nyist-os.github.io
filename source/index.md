@@ -1,6 +1,6 @@
 # Open Source @ NYIST
 
-- [中文版 README](index_zh.html)
+- [中文版](index_zh.html)
 
 We are students from NYIST, China.
 

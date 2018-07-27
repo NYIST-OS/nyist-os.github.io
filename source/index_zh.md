@@ -1,6 +1,6 @@
 # Open Source @ NYIST
 
-- [README in English](index.html)
+- [For English](index.html)
 
 我们是来自南阳理工学院的学生。
 
