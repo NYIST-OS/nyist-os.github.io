@@ -20,4 +20,4 @@ We are students from NYIST, China.
 
 ### Sponsor & Organizer
 
-- [kingcos - iOS Developer](https://github.com/kingcos)
+- [kingcos - iOS Developer & Full-stack Developer](https://github.com/kingcos)
